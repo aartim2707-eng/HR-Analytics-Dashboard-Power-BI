@@ -31,8 +31,6 @@ The dashboards help HR teams make **data-driven decisions** about hiring, retent
 - **Attrition by Training Outcome** → Higher attrition among employees with incomplete or failed training outcomes  
 - **Yearly Attrition Trends** → Increase from 2022 (~150) to 2023 (~250)  
 
----
-
 ### 2. Recruitment Funnel Dashboard
 - **Hiring Rate** → 58.73% (881 hired out of 2K candidates)  
 - **Offer Acceptance %** → 100% acceptance among candidates offered  
@@ -40,8 +38,6 @@ The dashboards help HR teams make **data-driven decisions** about hiring, retent
 - **Hires by Source** → Balanced distribution across LinkedIn, Naukri, Referral, and Company Website (~24–26% each)  
 - **Average Time to Hire by Department** → IT & Operations (22 days), Analytics & HR (21 days)  
 - **Recruiter Performance** → Recruiters R1–R4 contributed between 150–200 hires each  
-
----
 
 ### 3. Skill Gap Analysis Dashboard
 - **Avg Skill Match % vs. Skill Gap %** → Avg skill match ~71%, avg skill gap ~29%  
@@ -55,8 +51,8 @@ The dashboards help HR teams make **data-driven decisions** about hiring, retent
 - Recruitment funnel shows **58% hiring rate**, with salary mismatch as a major drop reason  
 - Skill gap analysis highlights **Data Analyst & QA Tester roles** with higher gaps  
 - Salary expectations often exceed offered salaries, impacting acceptance rates
--  
-
+  
+📌 **Short Note**
 This HR Analytics project demonstrates how Power BI can transform raw HR data into meaningful insights. By analyzing attrition, recruitment, and skill gaps, the dashboards provide HR managers with clear, actionable intelligence to improve workforce strategies. The project highlights my ability to combine data visualization, business understanding, and technical skills to deliver impactful solutions in the HR domain.
 
 
